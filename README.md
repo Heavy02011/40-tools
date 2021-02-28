@@ -27,3 +27,11 @@ If you've rebased your branch onto upstream/master you may need to force the pus
 
 git push -f origin master
 ```
+### check, it worked
+```
+(sds7) rainer@neuron:/media/rainer/_data/30-projects/donkeycar-dev_heavy02011/gym-donkeycar$ git remote -v
+origin	https://github.com/Heavy02011/gym-donkeycar.git (fetch)
+origin	https://github.com/Heavy02011/gym-donkeycar.git (push)
+upstream	https://github.com/tawnkramer/gym-donkeycar.git (fetch)
+upstream	https://github.com/tawnkramer/gym-donkeycar.git (push)
+```
