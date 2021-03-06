@@ -35,3 +35,9 @@ origin	https://github.com/Heavy02011/gym-donkeycar.git (push)
 upstream	https://github.com/tawnkramer/gym-donkeycar.git (fetch)
 upstream	https://github.com/tawnkramer/gym-donkeycar.git (push)
 ```
+## docker
+
+### Removing unused Docker objects
+```
+docker system prune    
+```
