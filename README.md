@@ -41,3 +41,6 @@ upstream	https://github.com/tawnkramer/gym-donkeycar.git (push)
 ```
 docker system prune    
 ```
+
+## filesystem Ubuntu
+- find a string ```grep -rnw '/path/to/somewhere/' -e 'pattern'```
